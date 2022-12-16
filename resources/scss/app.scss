@@ -1,1 +1,19 @@
-@import '~bootstrap/scss/bootstrap'
+@import '~bootstrap/scss/bootstrap';
+
+.menu {
+    a {
+        margin-left: 1rem;
+        text-decoration: none;
+        color: black;
+    }
+}
+
+.searchbar {
+    padding-top: 0.5rem;
+    border-bottom: 1px solid blue;
+    width: 150px;
+
+    p {
+        margin-bottom: 0;
+    }
+}
