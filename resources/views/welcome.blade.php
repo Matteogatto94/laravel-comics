@@ -24,7 +24,7 @@
 </div>
 
 <section class="banner_list bg-primary">
-    <div class="container text-white text-center">
+    <div class="container text-white py-3">
         <div class="row">
             <div class="col">
                 <img src="{{ Vite::asset('resources/img/buy-comics-digital-comics.png') }}" alt="">

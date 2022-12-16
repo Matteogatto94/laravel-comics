@@ -47,3 +47,49 @@ img {
         width: 70px;
     }
 }
+
+.contacts {
+    background-color: #303030;
+    height: 100px;
+    padding: 2rem 0;
+    align-items: center;
+}
+
+#site_footer {
+    background-image: url(../img/footer-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.follow_us {
+    color: #0282F9;
+    font-weight: bold;
+}
+
+.footer_up {
+    padding: 5rem 0;
+
+    h3 {
+        color: white;
+    }
+
+    ul {
+        list-style: none;
+        padding-left: 0;
+
+        li {
+
+            a {
+                text-decoration: none;
+                color: lightgray;
+            }
+        }
+    }
+}
+
+.bg {
+    background-image: url('../img/dc-logo-bg.png');
+    background-position: right center;
+    background-repeat: no-repeat;
+}
